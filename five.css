@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar-header img{
+    margin-top:20px;
+}
+#list ul li a{
+    color:#23527c;
+    font-size: 14px;
+    margin-left: 50px;
+}
+#list ul li{
+    margin-top: 25px;
+}
+.ull{
+    height:90px;
+}
+header .desc{
+    margin-top:18px;
+}
+.top{
+    height:40px;
+    background:#F45A14;
+}
+.top a{
+    color:#fff;
+    font-size: 14px;
+}
+.top p{
+    margin-top: 12px;
+}
+.top span{
+    color:#fff;
+    font-size: 17px;
+}
+#deng,#deng2{
+    text-decoration: none;
+    font-size: 14px;
+}
+#banner{
+    margin-top: 130px;
+}
+#banner img{
+    width:943px;
+    height:306px;;
+}
+.all{
+    line-height: 2em;
+    margin-left: 20px;
+    font-size: 16px;
+}
+.zuo{
+    float:left;
+}
+.you{
+    float:right;
+    font-size: 16px;
+    font-weight: bold;
+}
+footer{
+    margin-top: 10px;
+}
+.well{
+    margin-bottom:0;
+}

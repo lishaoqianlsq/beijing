@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar-header img{
+    margin-top:20px;
+}
+#list ul li a{
+    color:#23527c;
+    font-size: 14px;
+}
+#list a{
+    margin-left: 50px;
+}
+#list ul li{
+    margin-top: 25px;
+}
+.ull{
+    height:90px;
+}
+header .desc{
+    margin-top:18px;
+}
+.top{
+    height:40px;
+    background:#F45A14;
+}
+.top a{
+    color:#fff;
+    font-size: 14px;
+}
+.top p{
+    margin-top: 12px;
+}
+.top span{
+    color:#fff;
+    font-size: 17px;
+}
+#deng,#deng2{
+    text-decoration: none;
+    font-size: 14px;
+}
+#banner{
+    margin-top: 150px;
+}
+#banner img{
+    width:100%;
+}
+.ji{
+    font-size: 14px;
+    color:#3c3c3c;
+    text-indent:2em;
+    margin-left: 10px;
+}
+#banner img{
+    width:480px;
+    height:450px;
+    margin-top: 30px;
+}
+section{
+    margin-top: 30px;
+}
+section h4{
+    color:white;
+    width:140px;
+    height:30px;
+    background:#8f8f8f;
+    line-height: 30px;
+    text-align: center;
+}
+.item{
+    line-height: 2em;
+    font-size: 14px;
+}
+.hong{
+    color:red;
+    font-size: 14px;
+}
+.img2 img{
+    width:280px;
+    height:200px;
+}
+footer{
+    margin-top: 20px;
+}
+.well{
+    margin-bottom:0;
+}

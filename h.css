@@ -1,0 +1,193 @@
+*{
+     margin:0;
+     padding:0;
+ }
+.navbar-header img{
+    margin-top:20px;
+}
+#list ul li a{
+    color:#23527c;
+    font-size: 14px;
+}
+#list a{
+    margin-left:50px;
+}
+#list ul li{
+    margin-top: 25px;
+}
+.ull{
+    height:90px;
+}
+header .desc{
+    margin-top:18px;
+}
+.top{
+    height:40px;
+    background:#F45A14;
+}
+.top a{
+    color:#fff;
+}
+.top p{
+    margin-top: 12px;
+}
+.top span{
+    color:#fff;
+    font-size: 17px;
+}
+#deng,#deng2{
+    text-decoration: none;
+    font-size: 14px;
+}
+.banner{
+margin-top:50px;
+}
+.item img{
+    width:100%;
+    height:500px;
+}
+.hong{
+    color:red;
+    font-size:18px;
+}
+.bu{
+    color:forestgreen ;
+}
+.imgs{
+    width:200px;
+    height:150px;
+    overflow: hidden;
+}
+.imgs img{
+    width:200px;
+    height:150px;
+}
+.imgs img:hover{
+    transform: scale(1.3);
+    transition: all 1s ease 0s;
+}
+.k{
+    width:450px;
+    height:300px;
+    display:block;
+}
+.ji{
+    font-size: 16px;
+    color:#3c3c3c;
+    line-height: 1.5em;
+    text-indent:2em;
+}
+.badge{
+    background-color:red;
+}
+aside{
+    margin-top:20px;
+}
+.li{
+    width:360px;
+    height:290px;
+    border:1px solid #cccccc;
+    text-align:center;
+}
+#li2{
+    display:none;
+}
+#ul3{
+    list-style: none;
+    margin-top: 10px;
+    width:300px;
+    height:250px;
+}
+#ul3 li{
+    line-height: 2em;
+}
+#ul3 li a{
+    color:#0f0f0f;
+}
+#ul3 li a:hover{
+    color:red;
+}
+#ul4{
+    list-style: none;
+    margin-top: 10px;
+    width:330px;
+    height:250px;
+}
+#ul4 li{
+    line-height: 2em;
+}
+#ul4 li a{
+    color:#0f0f0f;
+}
+#ul4 li a:hover{
+    color:red;
+}
+article{
+    margin-top: 20px;
+}
+.ul1{
+    font-size: 16px;
+}
+.ul1 li:hover{
+    font-weight:bold;
+}
+#pag{
+    margin-top: 20px;
+}
+#pag img{
+    width:550px;
+    height:310px;
+}
+#moer{
+    margin-left: 95%;
+}
+#moer span{
+    color:orange;
+}
+.xia{
+    margin-top: 20px;
+}
+
+
+.en {
+    height:200px;
+    overflow: hidden;
+}
+.bo{
+    width:3000px;
+    animation:run 10s 1s ease infinite normal;
+}
+.en img {
+    float: left;
+    width:250px;
+    margin: 0 10px;
+    height:200px;
+    border: 2px solid #ccc;
+}
+@keyframes run {
+    0%{margin-left:0;}
+    20%{margin-left:-260px;}
+    40%{margin-left: -530px;}
+    60%{margin-left: -800px;}
+    80%{margin-left: -1070px;}
+    90%{margin-left: -1340px;}
+    100%{margin-left: 0;}
+}
+.shang{
+    margin-top: 20px;
+}
+.tu{
+    background:url("img/03.jpg");
+}
+#foot{
+    margin-top: 20px;
+}
+#foot p{
+    font-size: 14px;
+}
+#foot p:hover{
+    color:red;
+}
+.well{
+    margin-bottom:0;
+}

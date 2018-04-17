@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar-header img{
+    margin-top:20px;
+}
+#list ul li a{
+    color:#23527c;
+    font-size: 14px;
+    margin-left: 50px;
+}
+#list ul li{
+    margin-top: 25px;
+}
+.ull{
+    height:90px;
+}
+header .desc{
+    margin-top:18px;
+}
+.top{
+    height:40px;
+    background:#F45A14;
+}
+.top a{
+    color:#fff;
+}
+.top p{
+    margin-top: 12px;
+}
+.top span{
+    color:#fff;
+    font-size: 17px;
+}
+#deng,#deng2{
+    text-decoration: none;
+    font-size: 14px;
+}
+#banner{
+    margin-top: 100px;
+}
+.all{
+    width:100%;
+    height:550px;
+    background:url("img/timg2.jpg");
+}
+.desc{
+    width:500px;
+    height:380px;
+    border:1px solid black;
+    background:#000;
+    opacity: 0.8;
+    margin-top: 90px;
+    margin-left:45%;
+    line-height: 2em;
+    text-align: left;
+}
+form{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+form p{
+    margin-top: 20px;
+}
+.p1{
+    color:orangered;
+    font-size: 24px;
+    margin-top: 30px;
+}
+.p2{
+    font-size: 16px;
+    color:#fff;
+}
+select{
+    width:330px;
+    height:40px;
+    color:#000000;
+}
+option{
+    height:150px;
+}
+input{
+    width:330px;
+    height:40px;
+    color:#000000;
+}
+button{
+    width:100px;
+    height:40px;
+    margin-left: 67%;
+    border:0;
+    border-radius: 10px;
+}
+button:hover{
+    background:#00a9e0;
+    font-weight: bold ;
+    color:#fff;
+}
+section{
+    margin-top: 20px;
+}
+.imgs{
+    width:200px;
+    height:150px;
+    overflow: hidden;
+}
+.imgs img{
+    width:200px;
+    height:150px;
+}
+.imgs img:hover{
+    transform: scale(1.3);
+    transition: all 1s ease 0s;
+}
+.hong{
+    color:red;
+    font-size:18px;
+}
+.bu{
+    color:indigo ;
+}
+.xing{
+    color:orange;
+    font-size: 18px;
+    font-weight: bold;
+}
+.kong{
+    font-size: 18px;
+    font-weight: bold;
+}
+.xia{
+    margin-top: 20px;
+}
+aside{
+    margin-top: 20px;
+}
+.well{
+    margin-bottom:0;
+}
